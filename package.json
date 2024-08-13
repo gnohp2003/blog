@@ -1,0 +1,32 @@
+{
+  "name": "blog-first-app",
+  "version": "1.0.0",
+  "description": "This is the first appication developed by NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --inspect index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gnohp2003/blog.git"
+  },
+  "keywords": [
+    "blog",
+    "nodeJS",
+    "app",
+    "demo"
+  ],
+  "author": "gnohp",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gnohp2003/blog/issues"
+  },
+  "homepage": "https://github.com/gnohp2003/blog#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
