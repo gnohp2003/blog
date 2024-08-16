@@ -1,4 +1,5 @@
 .vscode
+.prettierrc
 
 node_modules/
 src/public/css
